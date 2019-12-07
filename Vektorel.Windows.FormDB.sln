@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.Windows.FormDB", "Vektorel.Windows.FormDB\Vektorel.Windows.FormDB.csproj", "{C77E01FC-45E6-433B-A597-BF6D108BA295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.DAL", "Vektorel.DAL\Vektorel.DAL.csproj", "{541E4150-BCBF-46FB-9B76-BF33B4130139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.KtapBankosu.BLL", "Vektorel.KtapBankosu.BLL\Vektorel.KtapBankosu.BLL.csproj", "{9BC21987-0BEA-4DB6-BF41-59505DD16500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.KitapBankosu.Models", "Vektorel.KitapBankosu.Models\Vektorel.KitapBankosu.Models.csproj", "{F22C7BA4-F0EA-431C-B18F-C8E938544260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C77E01FC-45E6-433B-A597-BF6D108BA295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77E01FC-45E6-433B-A597-BF6D108BA295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77E01FC-45E6-433B-A597-BF6D108BA295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77E01FC-45E6-433B-A597-BF6D108BA295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541E4150-BCBF-46FB-9B76-BF33B4130139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541E4150-BCBF-46FB-9B76-BF33B4130139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541E4150-BCBF-46FB-9B76-BF33B4130139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541E4150-BCBF-46FB-9B76-BF33B4130139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC21987-0BEA-4DB6-BF41-59505DD16500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC21987-0BEA-4DB6-BF41-59505DD16500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC21987-0BEA-4DB6-BF41-59505DD16500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC21987-0BEA-4DB6-BF41-59505DD16500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22C7BA4-F0EA-431C-B18F-C8E938544260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22C7BA4-F0EA-431C-B18F-C8E938544260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22C7BA4-F0EA-431C-B18F-C8E938544260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22C7BA4-F0EA-431C-B18F-C8E938544260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B238D69-5D16-445F-8013-A4551AC7E46C}
+	EndGlobalSection
+EndGlobal
