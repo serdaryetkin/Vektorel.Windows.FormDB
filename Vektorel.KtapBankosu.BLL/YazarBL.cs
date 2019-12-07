@@ -31,7 +31,6 @@ namespace Vektorel.KtapBankosu.BLL
             }
             catch (Exception)
             {
-
                 throw;
             }
         }
